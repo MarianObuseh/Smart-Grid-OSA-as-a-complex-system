@@ -6,7 +6,7 @@ Most of the codes are written in Python but the actually Agent Based Modeling is
 The cellular automata grid is assumed to have fixed boundary conditions (no particular theoretical backing is given for this). It is more heuristic than it is hinged on any particular basis of choice.
 I also have a lattice structure with network graphs where a 1st order Moore Neighborhood is implemented.
 Iterations are done randomly. This is based off on the assumption that in a control room, there's no particular order to which operators interact with each and/or one another.
-Operators are assumed to be in one and only one of the following states at each time in the model:
+Operators are assumed to be in one and only one of the following states at each time in the model: <br/>
       *Before Training*
       *During Vigilance Training*
       *After Vigilance Training without Improved Situation Awareness*
