@@ -7,7 +7,7 @@ The cellular automata grid is assumed to have fixed boundary conditions (no part
 I also have a lattice structure with network graphs where a 1st order Moore Neighborhood is implemented.
 Iterations are done randomly. This is based off on the assumption that in a control room, there's no particular order to which operators interact with each and/or one another.
 Operators are assumed to be in one and only one of the following states at each time in the model: <br/>
-      **Before Training <br/>
-      During Vigilance Training <br/>
-      After Vigilance Training without Improved Situation Awareness <br/>
-      After Vigilance Training with Improved Situation Awareness** <br/>
+      **1. Before Training <br/>
+      2. During Vigilance Training <br/>
+      3. After Vigilance Training without Improved Situation Awareness <br/>
+      4. After Vigilance Training with Improved Situation Awareness** <br/>
